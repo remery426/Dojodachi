@@ -19,7 +19,6 @@
 },
 "publishOptions": {
     "include": [
-        "Content",
         "Views",
         "web.config"
     ]
